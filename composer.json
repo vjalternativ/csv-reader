@@ -6,5 +6,12 @@
 		"psr-4" : {
 			"vizzy\\php\\lib\\" : "src"
 		}
-	}
+	},
+	"minimum-stability" : "stable",
+	"authors" : [{
+			"name" : "Vijay Kumar",
+			"email" : "rkt.vijaykumar@gmail.com",
+			"role" : "Software Developer"
+		}
+	]
 }

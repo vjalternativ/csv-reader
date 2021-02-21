@@ -1,5 +1,5 @@
 <?php
-namespace vizzy\php\util;
+namespace vizzy\php\lib;
 
 use RuntimeException;
 

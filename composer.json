@@ -1,5 +1,10 @@
 {
 	"name" : "vizzy-php/csv-reader",
 	"type" : "library",
-	"license" : "MIT"
+	"license" : "MIT",
+	"autoload" : {
+		"psr-4" : {
+			"vizzy\\php\\lib\\" : "src"
+		}
+	}
 }

@@ -25,7 +25,7 @@ class CSVReader
                 $this->isvalid = true;
                 $this->actualPath = $path;
             } else {
-                throw new RuntimeException("file not found");
+                throw new RuntimeException("file not found " . $path);
             }
         }
     }
